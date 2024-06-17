@@ -6,7 +6,7 @@ webhook_url = 'https://discord.com/api/webhooks/1069029677160747068/OI-Yer5WEPld
 
 #composition des messages
 
-message1 = {'content': 'Tu est vraiment pas doué @Chelsy !'}
+message1 = {'content': 'Tu est vraiment pas doué !'}
 message2 = {'content': 'message 2'}
 message3 = {'content' : 'message 3 wouhou'}
 
